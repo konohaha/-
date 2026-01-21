@@ -1,5 +1,5 @@
 // ★ ここを自分のTeachable MachineのURLに変更
-const URL = "https://teachablemachine.withgoogle.com/models/XXXX/";
+const URL = "https://teachablemachine.withgoogle.com/models/MmEzpjJM4/";
 
 let model, webcam, labelContainer, maxPredictions;
 
